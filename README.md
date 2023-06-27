@@ -1,5 +1,4 @@
-👋 Hello, I'm Shivam Kumar
-
+👋 Hello, I'm Shivam Verma
 💻 Software Engineer | Problem Solver | Open Source Enthusiast
 
 🌟 Passionate about crafting elegant solutions to complex problems and building scalable software applications. I thrive on challenges and enjoy collaborating with talented teams to create innovative solutions that make a positive impact.
